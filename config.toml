@@ -1,2 +1,5 @@
 theme = "dracula"
 intraline = false
+
+[styles]
+selection = "none #9476c4"
